@@ -11,7 +11,7 @@ To make it easy for you to get started with GitHub, here's a list of recommended
 - git clone https://github.com/kalpana-devitpl/rabbitmq.git
 
 ## Switch to the repo folder
-- cd memcached
+- cd rabbitmq
 
 ## Install all the dependencies using the composer
 - composer install
